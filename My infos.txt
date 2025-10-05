@@ -1,0 +1,57 @@
+KHALDI ABDERRAHMANE
+Data Scientist | AI Engineer
+Aïn Naâdja, Algeria • khaldi.abderrahmane@gmail.com
+ • +213-XXX-XXX-XXX
+GitHub: github.com/KhaldiDataPand • Kaggle: kaggle.com/abdelrahmanekhaldi • LinkedIn: linkedin.com/in/abderrahmane-khaldi
+
+Professional Summary
+
+Data Scientist & AI Engineer with a strong foundation in statistical analysis, machine learning, and end-to-end AI system design. Experienced in extracting insights from complex datasets, building predictive models, and deploying scalable solutions in healthcare, finance, and real-time decision systems. Skilled in Python, SQL, PyTorch, TensorFlow, and modern MLOps practices, combining rigorous data analysis with advanced NLP, computer vision, and time-series methods. Proven ability to lead projects from exploratory data analysis to production deployment and to mentor teams in applying data-driven approaches.
+
+Key Skills
+
+Machine Learning & AI: PyTorch, TensorFlow, Scikit-learn, XGBoost, Transformers, LLMs, Time-Series Forecasting
+Data Engineering & Analytics: Python, SQL (PostgreSQL/SQLite), Spark, Hadoop, Power BI, Tableau, SAS
+Deployment & MLOps: Docker, FastAPI, Streamlit, MLflow, Git, Bash
+Specialties: Computer Vision (OCR, Object Detection, Segmentation), NLP, Web Scraping
+
+Professional Experience
+
+Intern AI Engineer – CM Consulting | Dec 2024 – Apr 2025
+• Built an automated medical image-to-report system using LLM + ViT hybrid models, reducing manual reporting time by 40%.
+• Optimized inference pipeline for production deployment and streamlined data-processing workflows.
+
+AI & Data Analysis Team Lead – ITC & CSCC Scientific Clubs | Sep 2022 – Present
+• Directed multiple AI and data projects, mentored student teams, and organized the “Data Bounty” hackathon.
+• Delivered workshops on data analysis, machine learning, and deployment best practices.
+
+Freelance Data Scientist / ML Engineer – Upwork & Private Clients | Jan 2023 – Present
+• Conducted full exploratory data analysis for an e-learning platform to guide product decisions.
+• Developed automated web-scraping and scheduling bots for client operations.
+
+Selected Projects
+
+• Automated Chest-X-ray Report Generation: Master’s thesis; end-to-end pipeline for radiology reporting (Grade 18/20).
+• Multimodal Emotion Recognition: Integrated voice, text, and facial cues for real-time classification, deployed on Hugging Face.
+• Financial Market Forecasting: Hybrid transformer model combining news sentiment with time-series data for trend prediction.
+• Churn Prediction (Telecom & Banking): Gradient Boosting + LSTM achieving >85 % accuracy.
+• Buses Routing & Optimization: A* + Reinforcement Learning for real-time route planning using FastAPI and Streamlit.
+• Concrete Crack Detection: CNN-based computer-vision model, containerized with Docker and deployed to cloud.
+
+Education
+
+Master’s in Intelligent Systems Engineering – Blida 1 University | 2023 – 2025
+• Thesis: Automated Report Generation for Chest X-rays (Grade 18/20)
+
+Bachelor’s in Computer Systems Engineering – Blida 1 University | 2020 – 2023
+• Final Project: Automated Job-Requirements Analysis Pipeline (Grade 17/20)
+• Graduated with honors (Top 3)
+
+Achievements & Competitions
+
+• Kaggle: Top-700 contributor worldwide.
+• Multiple hackathon wins including DataHack (CSE-ESI) and GDG-Alger DevFest.
+
+Languages
+
+Arabic – Native • English – Fluent • French – Intermediate
