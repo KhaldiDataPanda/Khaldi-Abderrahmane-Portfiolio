@@ -99,6 +99,17 @@ const ProjectCard = ({ project }) => {
         >
           View Details
         </Link>
+        {project.githubLink && (
+          <a
+            href={project.githubLink}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn-secondary text-sm py-2 px-4 flex items-center gap-2"
+            title="View on GitHub"
+          >
+            <FiGithub size={16} />
+          </a>
+        )}
         {project.hasDemo && (
           <a
             href={project.demoLink}

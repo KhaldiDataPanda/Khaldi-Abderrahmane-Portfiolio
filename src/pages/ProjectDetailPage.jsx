@@ -48,10 +48,17 @@ const ProjectDetailPage = () => {
                 Live Demo
               </a>
             )}
-            <a href="#" className="btn-secondary flex items-center gap-2">
-              <FiGithub />
-              View Code
-            </a>
+            {project.githubLink && (
+              <a
+                href={project.githubLink}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn-secondary flex items-center gap-2"
+              >
+                <FiGithub />
+                View Code
+              </a>
+            )}
           </div>
 
           {/* Project Image */}
