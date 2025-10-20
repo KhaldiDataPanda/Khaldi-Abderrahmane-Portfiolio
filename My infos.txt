@@ -1,7 +1,6 @@
 KHALDI ABDERRAHMANE
-Data Scientist | AI Engineer
-Aïn Naâdja, Algeria • khaldi.abderrahmane@gmail.com
- • +213-XXX-XXX-XXX
+AI Engineer | Data Analyst 
+Aïn Naâdja, Algeria •
 GitHub: github.com/KhaldiDataPand • Kaggle: kaggle.com/abdelrahmanekhaldi • LinkedIn: linkedin.com/in/abderrahmane-khaldi
 
 Professional Summary
@@ -10,10 +9,12 @@ Data Scientist & AI Engineer with a strong foundation in statistical analysis, m
 
 Key Skills
 
-Machine Learning & AI: PyTorch, TensorFlow, Scikit-learn, XGBoost, Transformers, LLMs, Time-Series Forecasting
-Data Engineering & Analytics: Python, SQL (PostgreSQL/SQLite), Spark, Hadoop, Power BI, Tableau, SAS
-Deployment & MLOps: Docker, FastAPI, Streamlit, MLflow, Git, Bash
-Specialties: Computer Vision (OCR, Object Detection, Segmentation), NLP, Web Scraping
+Machine Learning & DL: PyTorch, TensorFlow, Scikit-learn, Transformers, Time-Series, CV, OCR,NLP
+Agents & LLMs: LangChain, Hugging Face, OpenAI, GPT-4, BERT, ViT
+MLOps & Prod: Docker, FastAPI, Streamlit, MLflow, Git, Bash
+Data Engineering: Python, SQL (PostgreSQL/SQLite), Spark, Hadoop, Snowflake, Web Scraping 
+Data Analysis & BI : Power BI, Tableau, SAS, Excel, QuickSight
+
 
 Professional Experience
 
@@ -29,14 +30,6 @@ Freelance Data Scientist / ML Engineer – Upwork & Private Clients | Jan 2023 �
 • Conducted full exploratory data analysis for an e-learning platform to guide product decisions.
 • Developed automated web-scraping and scheduling bots for client operations.
 
-Selected Projects
-
-• Automated Chest-X-ray Report Generation: Master’s thesis; end-to-end pipeline for radiology reporting (Grade 18/20).
-• Multimodal Emotion Recognition: Integrated voice, text, and facial cues for real-time classification, deployed on Hugging Face.
-• Financial Market Forecasting: Hybrid transformer model combining news sentiment with time-series data for trend prediction.
-• Churn Prediction (Telecom & Banking): Gradient Boosting + LSTM achieving >85 % accuracy.
-• Buses Routing & Optimization: A* + Reinforcement Learning for real-time route planning using FastAPI and Streamlit.
-• Concrete Crack Detection: CNN-based computer-vision model, containerized with Docker and deployed to cloud.
 
 Education
 
@@ -47,10 +40,19 @@ Bachelor’s in Computer Systems Engineering – Blida 1 University | 2020 – 2
 • Final Project: Automated Job-Requirements Analysis Pipeline (Grade 17/20)
 • Graduated with honors (Top 3)
 
+
+Workshops :
+
+Algeria 2.0 : Lead a workshop on Data Sceince using Python (Pandas, Matplotlib, Seaborn) in Algeria 2.0, the event attended by over 1000 participants.
+ITC ABC Programing : Conducted a series of workshops on Python programming and Machine Learning for beginners as part of the ITC ABC Programing initiative.
+ITC Tour : Delivered hands-on sessions on building and deploying machine learning models during the ITC Tour event.
+ITC Podcast : Featured speaker on ITC Podcast discussing the latest trends and techniques in AI and Machine Learning.
+
 Achievements & Competitions
 
 • Kaggle: Top-700 contributor worldwide.
-• Multiple hackathon wins including DataHack (CSE-ESI) and GDG-Alger DevFest.
+• 2nd place at DataHack Datathone (CSE-ESI) 
+• 5th place at DevFest Hackathone (GDG-Alger).
 
 Languages
 
