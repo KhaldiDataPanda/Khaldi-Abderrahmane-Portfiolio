@@ -28,3 +28,15 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+
+# Personal Information Files
+My infos.txt
+Certificates.txt
+Projects.txt
+Me.jpg
+
+# Documentation (optional - remove if you want to keep these)
+TESTING-CHECKLIST.md
+QUICKSTART.md
+SUMMARY.md
+setup.ps1
