@@ -1,0 +1,25 @@
+
+Projects : 
+
+- Automated Medical Report Generation from chest-xray images using novel architecture (to be published soon), dockerized with a demo interface
+- Churn Predection for Telecom and Banking domains using boosters and custom LSTMs
+- Rent and Proeprty value forcasting , using multiple tree-based models and an interface using streamlit
+- Darija Stentiment analysis via fine tuned Transformers with sieamease network
+- Arabic Fake news detection usin LLMs and Text Cleaning
+- Emotion Recoegnetion based on Voice/Face/Text Describing/voice , Deployed on hugging face
+- Python library for recommending poetry and movies, based on the detected emotion for 
+- Music Generation based on emotion detection 
+- Buildings Cracks in concrete detection, dockized and deployed with streamlit on railway
+- Urbain Audio multiclass classification 
+- Buses Tracking, Routing, and Optimization system. implemented A* and RL model for routing with map showcasing the simulation using Streamlit & FastAPI, data stored in SQLite DB 
+- Arabic Magharbi artline OCR using Vision Transformers
+- Metaheuristic Frequent Items Mining Simualtion with custom parameters 
+
+
+Demos : (the links for the online active demos for the projects that have one)
+
+- Music Generation https://huggingface.co/spaces/KhaldiAbderrhmane/ABO_Tears
+- Emotion Recognition : https://huggingface.co/spaces/KhaldiAbderrhmane/Text-Emotion-Recognition
+- Churn Predection : https://banking-and-telecom-churn-predection.streamlit.app/
+- Metaheuristic Frequent : https://frequent-items-mining.streamlit.app/
+- Cracks Detection : https://crack-detection-fastapi-production.up.railway.app/
