@@ -9,7 +9,7 @@ const Experience = () => {
     {
       role: 'AI & Data Analysis Team Lead',
       company: 'ITC & CSCC Scientific Clubs',
-      period: 'Sep 2022 – Present',
+      period: 'Sep 2022 – Jun 2025',
       location: 'Algeria',
       type: 'Leadership',
       achievements: [
