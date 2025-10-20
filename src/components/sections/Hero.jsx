@@ -103,7 +103,7 @@ const Hero = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-primary-500/20 rounded-full blur-3xl animate-pulse"></div>
               <img
-                src="/Me.jpg"
+                src={`${import.meta.env.BASE_URL}Me.jpg`}
                 alt="Khaldi Abderrahmane"
                 className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full object-cover border-4 border-primary-500/30 shadow-2xl"
               />

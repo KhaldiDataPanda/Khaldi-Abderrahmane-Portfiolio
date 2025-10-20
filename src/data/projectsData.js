@@ -7,7 +7,7 @@ export const projectsData = [
     tags: ['Deep Learning', 'Emotion Recognition', 'Audio Generation', 'Transformers'],
     description: 'AI-powered music generation system that creates music based on detected emotions from voice, face, and text input.',
     demoLink: 'https://huggingface.co/spaces/KhaldiAbderrhmane/ABO_Tears',
-    image: '/Projects Pics/Emotion Based MusicGen.png',
+    image: `${import.meta.env.BASE_URL}Projects Pics/Emotion Based MusicGen.png`,
     hasDemo: true,
     hasPic: true,
     priority: 1
@@ -19,7 +19,7 @@ export const projectsData = [
     tags: ['Computer Vision', 'NLP', 'Audio Processing', 'Multi-Modal AI'],
     description: 'Multi-modal emotion recognition system analyzing voice, facial expressions, and text to detect human emotions with high accuracy.',
     demoLink: 'https://huggingface.co/spaces/KhaldiAbderrhmane/Text-Emotion-Recognition',
-    image: '/Projects Pics/Text Emotion Recognetion.png',
+    image: `${import.meta.env.BASE_URL}Projects Pics/Text Emotion Recognetion.png`,
     hasDemo: true,
     hasPic: true,
     priority: 1
@@ -32,7 +32,7 @@ export const projectsData = [
     description: 'Customer churn prediction system using ensemble boosters and custom LSTMs for telecom and banking domains.',
     demoLink: 'https://banking-and-telecom-churn-predection.streamlit.app/',
     githubLink: 'https://github.com/KhaldiDataPanda/MultiChurn',
-    image: '/Projects Pics/ChurnPredection.png',
+    image: `${import.meta.env.BASE_URL}Projects Pics/ChurnPredection.png`,
     hasDemo: true,
     hasPic: true,
     priority: 1
@@ -45,7 +45,7 @@ export const projectsData = [
     description: 'Simulation platform for frequent items mining using metaheuristic algorithms with customizable parameters.',
     demoLink: 'https://frequent-items-mining.streamlit.app/',
     githubLink: 'https://github.com/KhaldiDataPanda/Frequent-Items-Mining-StreamlitxFastAPI',
-    image: '/Projects Pics/Most Frequent Item Mining.png',
+    image: `${import.meta.env.BASE_URL}Projects Pics/Most Frequent Item Mining.png`,
     hasDemo: true,
     hasPic: true,
     priority: 1
@@ -58,7 +58,7 @@ export const projectsData = [
     description: 'Building crack detection system for concrete structures, dockerized and deployed with real-time inference capabilities.',
     demoLink: 'https://crack-detection-fastapi-production.up.railway.app/',
     githubLink: 'https://github.com/KhaldiDataPanda/Wall-Cracks-Detection-FastAPI',
-    image: '/Projects Pics/Concrete Cracks Detection.png',
+    image: `${import.meta.env.BASE_URL}Projects Pics/Concrete Cracks Detection.png`,
     hasDemo: true,
     hasPic: true,
     priority: 1
@@ -71,7 +71,7 @@ export const projectsData = [
     category: 'Healthcare AI',
     tags: ['Computer Vision', 'NLP', 'ViT', 'LLM', 'Healthcare'],
     description: 'Novel architecture combining LLM and Vision Transformers to generate medical reports from chest X-ray images. Reduced manual reporting time by 40%. Research paper to be published soon.',
-    image: '/Projects Pics/Automated Medical Report Generation.png',
+    image: `${import.meta.env.BASE_URL}Projects Pics/Automated Medical Report Generation.png`,
     hasDemo: false,
     hasPic: true,
     priority: 2
@@ -82,7 +82,7 @@ export const projectsData = [
     category: 'Machine Learning',
     tags: ['Regression', 'Tree Models', 'Real Estate', 'Streamlit'],
     description: 'Property value and rent prediction system using multiple tree-based models with interactive Streamlit interface for real-time forecasting.',
-    image: '/Projects Pics/placeholder.png', // TODO: Add actual image
+    image: `${import.meta.env.BASE_URL}Projects Pics/placeholder.png`, // TODO: Add actual image
     hasDemo: false,
     hasPic: false, // Changed to false since image doesn't exist
     priority: 2
@@ -93,7 +93,7 @@ export const projectsData = [
     category: 'NLP',
     tags: ['NLP', 'Transformers', 'Siamese Networks', 'Arabic NLP'],
     description: 'Fine-tuned transformer model with siamese network architecture for sentiment analysis in Darija (Moroccan Arabic dialect).',
-    image: '/Projects Pics/placeholder.png', // TODO: Add actual image
+    image: `${import.meta.env.BASE_URL}Projects Pics/placeholder.png`, // TODO: Add actual image
     hasDemo: false,
     hasPic: false, // Changed to false since image doesn't exist
     priority: 2
@@ -104,7 +104,7 @@ export const projectsData = [
     category: 'NLP',
     tags: ['LLM', 'Text Classification', 'Fact-Checking', 'Arabic NLP'],
     description: 'Large Language Model-based system for detecting fake news in Arabic text with advanced text cleaning and preprocessing.',
-    image: '/Projects Pics/placeholder.png', // TODO: Add actual image
+    image: `${import.meta.env.BASE_URL}Projects Pics/placeholder.png`, // TODO: Add actual image
     hasDemo: false,
     hasPic: false, // Changed to false since image doesn't exist
     priority: 2
@@ -116,7 +116,7 @@ export const projectsData = [
     tags: ['Reinforcement Learning', 'A* Algorithm', 'FastAPI', 'SQLite', 'Real-time Systems'],
     description: 'Intelligent bus tracking and routing system implementing A* pathfinding and RL models. Features real-time map simulation using Streamlit & FastAPI with SQLite backend.',
     githubLink: 'https://github.com/KhaldiDataPanda/Bus-Stations-Multi-Agent-System',
-    image: '/Projects Pics/Bus Network Simulation 1.png',
+    image: `${import.meta.env.BASE_URL}Projects Pics/Bus Network Simulation 1.png`,
     hasDemo: false,
     hasPic: true,
     priority: 2
@@ -127,7 +127,7 @@ export const projectsData = [
     category: 'Computer Vision',
     tags: ['OCR', 'Vision Transformers', 'Arabic Text', 'Document Analysis'],
     description: 'Vision Transformer-based OCR system specialized in recognizing Arabic Maghrebi script and outline text formats.',
-    image: '/Projects Pics/placeholder.png', // TODO: Add actual image
+    image: `${import.meta.env.BASE_URL}Projects Pics/placeholder.png`, // TODO: Add actual image
     hasDemo: false,
     hasPic: false, // Changed to false since image doesn't exist
     priority: 2
@@ -138,7 +138,7 @@ export const projectsData = [
     category: 'Audio Processing',
     tags: ['Audio ML', 'CNN', 'Multi-class Classification', 'Urban Computing'],
     description: 'Multi-class classification system for urban audio events using convolutional neural networks and advanced audio feature extraction.',
-    image: '/Projects Pics/placeholder.png', // TODO: Add actual image
+    image: `${import.meta.env.BASE_URL}Projects Pics/placeholder.png`, // TODO: Add actual image
     hasDemo: false,
     hasPic: false, // Changed to false since image doesn't exist
     priority: 2

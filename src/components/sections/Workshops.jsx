@@ -12,7 +12,7 @@ const Workshops = () => {
       description: 'Led a comprehensive workshop on Data Science using Python (Pandas, Matplotlib, Seaborn). The event was attended by over 1000 participants.',
       participants: '1000+',
       topics: ['Pandas', 'Matplotlib', 'Seaborn', 'Data Analysis'],
-      image: '/Workshops/Algeria 2.0.jpg'
+      image: `${import.meta.env.BASE_URL}Workshops/Algeria 2.0.jpg`
     },
     {
       title: 'ITC ABC Programming - Python & ML',
@@ -20,7 +20,7 @@ const Workshops = () => {
       description: 'Conducted a series of workshops on Python programming and Machine Learning for beginners as part of the ITC ABC Programming initiative.',
       participants: '200+',
       topics: ['Python Basics', 'Machine Learning', 'Scikit-learn', 'Model Training'],
-      image: '/Workshops/ITC ABC Programing.png'
+      image: `${import.meta.env.BASE_URL}Workshops/ITC ABC Programing.png`
     },
     {
       title: 'ITC Tour - Building & Deploying ML Models',
@@ -28,7 +28,7 @@ const Workshops = () => {
       description: 'Delivered hands-on sessions on building and deploying machine learning models during the ITC Tour event.',
       participants: '150+',
       topics: ['Model Development', 'Deployment', 'FastAPI', 'Docker'],
-      image: '/Workshops/ITC Tour.png'
+      image: `${import.meta.env.BASE_URL}Workshops/ITC Tour.png`
     },
     {
       title: 'ITC Podcast - AI & ML Trends',
@@ -36,7 +36,7 @@ const Workshops = () => {
       description: 'Featured speaker on ITC Podcast discussing the latest trends and techniques in AI and Machine Learning.',
       participants: '500+ (Online)',
       topics: ['AI Trends', 'Deep Learning', 'Industry Insights', 'Career Guidance'],
-      image: '/Workshops/ITC Podcast.png'
+      image: `${import.meta.env.BASE_URL}Workshops/ITC Podcast.png`
     }
   ]
 
